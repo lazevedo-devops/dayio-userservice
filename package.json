@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lazevedo-devops/dayio-test.git"
+    "url": "git+https://github.com/lazevedo-devops/dayio-userservice.git"
   },
   "author": "lazevedo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lazevedo-devops/dayio-test/issues"
+    "url": "https://github.com/lazevedo-devops/dayio-userservice/issues"
   },
-  "homepage": "https://github.com/lazevedo-devops/dayio-test#readme",
+  "homepage": "https://github.com/lazevedo-devops/dayio-userservice#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
