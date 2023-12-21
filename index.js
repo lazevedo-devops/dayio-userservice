@@ -14,3 +14,7 @@ app.get('/user', (req, res) => {
         "Hello World User Service!"
     );
 });
+
+process.on('SIGINT', function() {
+    process.exit();
+});
