@@ -1,5 +1,5 @@
 {
-  "name": "dayio-test",
+  "name": "dayio-userservice",
   "version": "1.0.0",
   "description": "Sample API that returns a humble Hello World",
   "main": "index.js",
